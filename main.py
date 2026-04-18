@@ -11,3 +11,7 @@ pygame.init()
 window = pygame.display.set_mode((WIDTH, HEIGHT))
 pygame.display.set_caption("Socoban")
 clock = pygame.time.Clock()
+
+
+
+hhhhhhh
