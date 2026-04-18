@@ -2,8 +2,8 @@ import pygame
 import sys
 
 BLACK = (0, 0, 0)
-WIDTH = 800
-HEIGHT = 800
+WIDTH = 100
+HEIGHT = 100
 FPS = 60
 
 pygame.init()
